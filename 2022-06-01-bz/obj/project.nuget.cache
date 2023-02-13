@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/L4eNWqm6tnZTwYCUKEdtU3hukLDY0x+cEzW/E7ZhwWel58vHKTBByXPl5bjZdtLxIy6WMgevBE1DMMyrx/yw==",
+  "success": true,
+  "projectFilePath": "E:\\_Szoftverfejlesztés\\2022-06-01 - C#\\2022-06-01-bz\\2022-06-01-bz\\2022-06-01-bz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zollerkmd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\zollerkmd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zollerkmd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zollerkmd\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

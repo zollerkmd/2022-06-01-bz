@@ -1,0 +1,4 @@
+Zoli	5	férfi
+Bogi	10	nő
+Viki	8	nő
+Mama	6	nő
